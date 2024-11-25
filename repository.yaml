@@ -1,6 +1,6 @@
 {
     "name": "Python Matter Server Add-ons",
-    "url": "https://github.com/Shaderhoth/python-matter-server",
+    "url": "https://github.com/Shaderhoth/addons",
     "maintainer": "David Kuc <davidkuc6@gmail.com>",
     "addons": [
         {
