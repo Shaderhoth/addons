@@ -1,7 +1,7 @@
 ---
 build_from:
-  aarch64: ghcr.io/shaderhoth/python-matter-server:latest
-  amd64: ghcr.io/shaderhoth/python-matter-server:latest
+  aarch64: ghcr.io/shaderhoth/custom-python-matter-server:stable
+  amd64: ghcr.io/shaderhoth/custom-python-matter-server:stable
 args:
   BASHIO_VERSION: 0.14.3
   TEMPIO_VERSION: 2021.09.0
